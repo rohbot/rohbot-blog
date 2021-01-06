@@ -7,4 +7,13 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+● Software Engineer by day
+● Mechatronics Engineer by degree
+● Worked on all range of things from
+embedded micro devices to Cloud
+scale infrastructure
+● Python language of choice
+● C/C++, Javascript, Java, SQL, etc
+● Playing around with Raspberry Pi, Arduino and other such things
+
+https://rohbot.github.io/
