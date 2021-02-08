@@ -58,7 +58,7 @@ Click ***Target***, then ***Program and Verify*** and select the *RS41HUP.bin* y
 Hit ***Start*** to flash the file to the sonde
 If it works next time you push the power button on the Sonde it should be transmitting on 434.2 MHz
    
-#Disclaimer
+# Disclaimer
 This is not the only way to flash the [RS41HUP](https://github.com/darksidelemm/RS41HUP) firmware to a RS41 but this is what worked for me
 I compiled the firmware using WSL and then flashed the Sonde in Windows 10. I haven't tried using [openOCD](http://openocd.org/) or stlink
    
