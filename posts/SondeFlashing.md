@@ -52,7 +52,7 @@ Viewed into port from outside
 ![st-util](https://github.com/rohbot/rohbot-blog/raw/master/img/st-util.jpg)
 3. If this is the first time flashing the sonde, you will need to disable ***Read Out Protection***  
 Click ***Target***, then ***Option Bytes*** and make sure ***Read Out Protection*** is disabled
-![option-bytes](https://github.com/rohbot/rohbot-blog/raw/master/img/option_bytes.jpg)
+![option-bytes](https://github.com/rohbot/rohbot-blog/raw/master/img/options_bytes.jpg)
 4. You should now be ready to flash new firmware to the sonde
 Click ***Target***, then ***Program and Verify*** and select the *RS41HUP.bin* you have either compiled or downloaded [here](https://github.com/rohbot/rohbot-blog/raw/master/img/RS41HUP_RPHMELB-4FSK.zip)
 Hit ***Start*** to flash the file to the sonde
