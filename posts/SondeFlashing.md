@@ -14,6 +14,6 @@ layout: layouts/post.njk
 ## 1. Catch a Sonde
 Go out and track down a Radiosonde that's been launched by the BOM. It might be helpful to check out [auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) project
 ## 1. Crack it open
-Using a small flat head screw driver  
-![D](https://github.com/rohbot/launchpad-iot/raw/master/public/images/demo.gif)
+Using a small flat head screw driver, lever it under the front clip until it pops off 
+![](https://github.com/rohbot/rohbot-blog/raw/master/img/front-hook.jpg)
 
