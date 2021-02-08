@@ -15,5 +15,7 @@ layout: layouts/post.njk
 Go out and track down a Radiosonde that's been launched by the BOM. It might be helpful to check out [auto_rx](https://github.com/projecthorus/radiosonde_auto_rx) project
 ## 1. Crack it open
 Using a small flat head screw driver, lever it under the front clip until it pops off 
-![](https://github.com/rohbot/rohbot-blog/raw/master/img/front-hook.jpg)
+![front clip](https://github.com/rohbot/rohbot-blog/raw/master/img/front-hook.jpg)
+Removing the rear clip is a little trickier. Try
+![rear clip](https://github.com/rohbot/rohbot-blog/raw/master/img/rear-clip.jpg)
 
