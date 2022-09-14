@@ -21,7 +21,7 @@ Once you get the clips off it good to cut them off with some sidecutters, so it 
 ## Compiling the RS41HUP firmare
 1. Follow the instructions on [RS41HUP Readme](https://github.com/darksidelemm/RS41HUP)
 I managed to compile it using [Windows Sub System for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) but your mileage may vary 
-For those members of the [Melbourne Raspberry Pi Hackers](https://melbourne-rpi.com.au/) looking to flash a sonde with our call sign here is the [firmware](https://github.com/rohbot/rohbot-blog/raw/master/img/RS41HUP_RPHMELB-4FSK.zip) I prepared eariler.. 
+For those members of the [Melbourne Raspberry Pi Hackers](https://melbourne-rpi.com.au/) / [EMDRC](https://www.emdrc.com.au/) looking to flash a sonde with our call sign here is the [firmware](https://https://hab.rohbot.cc/RS41ng-firmware.zip) I prepared eariler.. 
 ## Flashing Firmware to the Sonde
 * For this you will need a ST-Link V2. I bought mine off eBay for $12 AUD [link](https://www.ebay.com.au/itm/393083134149)
 * You will also need to download and install the [STM32 ST-LINK utility](https://www.st.com/en/development-tools/stsw-link004.html)
